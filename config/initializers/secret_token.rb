@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Kdastrofree::Application.config.secret_key_base = '92f30692975a77b9339f764eaa1850c3075dbcdf2b85a74106e241a392f2baf3d9a5ee4306ad8e46a393ba6594f31d84c5296826cbed9deb74e8974a90b32052'
+Kdastrofree::Application.config.secret_key_base = 'c04042204ff5c9bba34e41186f6a4740c041858f1457799af9caeaa9949a7732c9639881427b344f52b59f92f36eb878e86221ef2822aa966e2680d2fa9bd85c'
